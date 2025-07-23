@@ -39,3 +39,29 @@ open index.html   # or just double-click it
 *  EADME.md         # Project documentation
 
 
+🎮 Controls
+
+* ⬅️ Left Arrow — Move paddle left
+* ➡️ Right Arrow — Move paddle right
+
+
+✅ Goals
+
+* Learn DOM manipulation using JavaScript
+
+* Practice event handling and animation with setInterval
+
+* Build a full playable game using basic web technologies
+
+
+📌 Future Improvements
+
+* 🎵 Add sound effects
+
+* 📱 Make it mobile-responsive
+
+* 🔄 Add restart button or levels
+
+* 🎨 Improve visual design and animations
+
+
